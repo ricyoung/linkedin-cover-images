@@ -6,6 +6,22 @@ A collection of free LinkedIn cover/background images for anyone to use! 🚀
 
 This repository contains 164 LinkedIn cover images that are completely free to use. I created all of these images myself and am making them available to help make LinkedIn profiles more visually appealing. ✨
 
+## 🖼️ Sample Images
+
+Here are a few examples from the collection:
+
+<p align="center">
+  <img src="jpg/richardyoung_00023.jpg" width="300" alt="Sample LinkedIn Cover 1">
+  <img src="jpg/richardyoung_00087.jpg" width="300" alt="Sample LinkedIn Cover 2">
+  <img src="jpg/richardyoung_00134.jpg" width="300" alt="Sample LinkedIn Cover 3">
+</p>
+
+<p align="center">
+  <img src="jpg/richardyoung_00045.jpg" width="300" alt="Sample LinkedIn Cover 4">
+  <img src="jpg/richardyoung_00109.jpg" width="300" alt="Sample LinkedIn Cover 5">
+  <img src="jpg/richardyoung_00156.jpg" width="300" alt="Sample LinkedIn Cover 6">
+</p>
+
 ## 🎯 Usage
 
 Feel free to:
